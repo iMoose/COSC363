@@ -1,0 +1,12 @@
+﻿  yard.cpp
+yard.cpp(39): warning C4305: '-=': truncation from 'double' to 'float'
+yard.cpp(40): warning C4305: '+=': truncation from 'double' to 'float'
+yard.cpp(43): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+yard.cpp(44): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+yard.cpp(48): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+yard.cpp(49): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+yard.cpp(70): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Generating code
+  All 128 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Testing.vcxproj -> C:\Users\Imas\source\repos\Testing\Release\Testing.exe
